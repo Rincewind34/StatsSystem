@@ -1,0 +1,7 @@
+name: MiniGame
+version: 0.0.1
+
+author: Rincewind
+
+main: de.rincewind.plugin.Main
+

@@ -1,0 +1,6 @@
+.gitignore~
+plugin.yml~
+bin/
+.settings/
+.classpath
+.project
